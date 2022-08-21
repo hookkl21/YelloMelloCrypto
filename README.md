@@ -34,4 +34,5 @@ yarn start      or   npm start
 - the website should be easy to navigate
 - the website should be responsive, be able to response with any device
 
-##
+![yellomello Crypto wireframe](https://user-images.githubusercontent.com/16939218/185796513-5b0789f9-72d2-42d6-aca5-be219534540c.png)
+
