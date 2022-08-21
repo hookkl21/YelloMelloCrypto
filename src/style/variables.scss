@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;700;800&family=Staatliches&display=swap");
+
+$main-font: "Rubik", sans-serif;
+$bold-font: "Staaliches", cursive;
+
+$background-1: #050514;
+$background-2: #101069;
+$background-3: #d8d8d8;
+
+$text: #ffdd42;
+$text-2: #f5cf27;
+$text-3: #222222;
+
+//global styling
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $main-font;
+}
+
+a {
+  text-decoration: none;
+  // color: #c9c9c9;
+  color: $text;
+}

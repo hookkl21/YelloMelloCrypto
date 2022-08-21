@@ -1,0 +1,7 @@
+@import "./variables.scss";
+
+.app {
+  background: $background-1;
+  color: $text;
+  min-height: 100vh;
+}
